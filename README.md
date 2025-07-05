@@ -52,8 +52,6 @@ This project involves the analysis of Swiggy order and customer data using Excel
 
 
 ## 📌 Notes
-
-- The dataset is anonymized and used for educational purposes.
 - All visualizations are interactive using Excel slicers and filters.
 
 ## 📧 Contact
