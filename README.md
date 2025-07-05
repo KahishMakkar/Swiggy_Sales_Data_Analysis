@@ -58,6 +58,6 @@ This project involves the analysis of Swiggy order and customer data using Excel
 
 ## 📧 Contact
 
-For queries or feedback, feel free to reach out at [your-email@example.com].
+For queries or feedback, feel free to reach out at [kashishmakkar9878@gmail.com].
 
 
